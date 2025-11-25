@@ -16,7 +16,7 @@ The goal was to identify revenue drivers, peak sales periods, and product perfor
   - Used for data cleaning and transformation.  
   - Key operations included casting unit prices, calculating total revenue, and grouping transactions into time buckets.
 
-- **Excel / Power BI / Tableau**  
+- **Excel / Power BI**
   - Used for pivot tables, dashboards, and visualizations.  
   - Helped present insights in a clear, visual format for decision-making.
 
